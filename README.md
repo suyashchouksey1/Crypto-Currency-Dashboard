@@ -67,10 +67,7 @@ To get started with the Cryptocurrency Market Analysis tool, follow these steps:
 
    ```bash
    git clone https://github.com/suyashchouksey1/Crypto-Currency-Dashboard
- 
-
-
-
+   
                              CryptoChart Component                                     
 The CryptoChart component is a React-based cryptocurrency chart display component that allows users to visualize cryptocurrency price data over various time intervals. It leverages the Recharts library for rendering interactive and animated charts.
 
